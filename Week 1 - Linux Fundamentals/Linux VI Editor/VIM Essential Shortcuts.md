@@ -215,4 +215,4 @@ c$   = change to end of line
 **Next Steps:** 
 Once these commands become second nature, you'll be ready to learn about **operators**, **text objects**, and **macros** - which will multiply your efficiency even further!
 
-Remember: vim has a learning curve, but every shortcut you master saves you countless keystrokes in the future. Start with a few commands, use them daily, then gradually add more to your toolkit.
+Remember: vim has a learning curve, but every shortcut you master saves you countless keystrokes in the future. Start with a few commands, use them daily, then gradually add more to your toolkit. [Here](https://vim.rtorr.com/) is a good cheatsheet i found. 
