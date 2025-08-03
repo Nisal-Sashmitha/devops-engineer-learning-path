@@ -127,4 +127,4 @@ These are slight variations of the main modes and you'll learn about them later 
 
 ---
 
-**Next:** Master VIM navigation and movement commands to efficiently move around your files!
+**Next:** Master [VIM Essential Shortcuts](./VIM%20Essential%20Shortcuts.md) to efficiently move around and do your tasks!
