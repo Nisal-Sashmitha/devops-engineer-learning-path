@@ -133,4 +133,4 @@ You can even make it a game: "How can I accomplish this edit with the fewest key
 
 ---
 
-**Next:** Continue your VI/VIM journey with [VIM Quickstart Section](./Vim%20Quickstart.md) and other resources for hands-on learning and practical techniques!
+**Next:** Continue your VI/VIM journey with [VIM Modes Section](./VIM%20Modes.md) and other resources for hands-on learning and practical techniques!
